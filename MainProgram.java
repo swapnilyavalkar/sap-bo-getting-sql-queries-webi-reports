@@ -8,7 +8,7 @@ public class MainProgram {
 	public static final String SOURCE_CMS_USN = "";
 	public static String SOURCE_CMS_PWD = "";
 	public static String SOURCE_REPORT_ID;
-	public static String[] SOURCE_REPORT_ID_ARRAY = {"760528"}; # MENTION SI_ID OF REPORT
+	public static String[] SOURCE_REPORT_ID_ARRAY = {"760528"}; // MENTION SI_ID OF REPORT
 	
 	public static String SOURCE_REPORT_NAME = null;
 	
