@@ -96,8 +96,8 @@ Util.logoffServer(token);
 Compile and run the program using your preferred IDE or via the command line:
 
 ```bash
-javac Util.java
-java Util
+javac MainProgram.java
+java MainProgram
 ```
 
 ## 📝 Code Overview
